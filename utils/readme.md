@@ -1,11 +1,11 @@
 # undefined
 
-  ![github license](https://img.shields.io/badge/license-jsd-green.svg)
+  ![github license](https://img.shields.io/badge/license-MIT-green.svg)
     
 
   ## Description
 
-  jsldjf
+  I am creating a readme file usimg the inquirer package to generate it.
 
   
   
@@ -24,20 +24,20 @@
   
   ## Project Name
 
-  jagdkd
+  Readme_Generator
 
   ## Description
 
-  jsldjf
+  I am creating a readme file usimg the inquirer package to generate it.
   
   ## Installation
 
-  jkdhf
+  To install, clone it to your computer from github where it hosted. install the inquirer package.
   
   
   ## Usage
 
-  hskdhf
+  To use it, you need it to be clone on your computer and then do node index.js
 
   ## User Name
 
@@ -54,7 +54,7 @@
 
   ## Tests
 
-  hskd
+  There is no test
 
 
   
@@ -68,7 +68,7 @@
   
   ## Badges
   
-  ![github license](https://img.shields.io/badge/license-jsd-green.svg)
+  ![github license](https://img.shields.io/badge/license-MIT-green.svg)
     
   
   Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
